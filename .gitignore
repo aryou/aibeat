@@ -1,0 +1,7 @@
+/.idea
+/build
+
+.DS_Store
+/aibeat
+/aibeat.test
+*.pyc

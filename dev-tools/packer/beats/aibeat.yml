@@ -1,0 +1,4 @@
+beat_name: aibeat
+beat_url: 'https://github.com/aryou'
+beat_repo: 'github.com/aryou'
+beat_description: Sends aibeat metrics to Logstash or directly to Elasticsearch.

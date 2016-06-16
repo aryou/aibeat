@@ -1,0 +1,5 @@
+= Aibeat Docs
+
+Welcome to the Aibeat documentation.
+
+
